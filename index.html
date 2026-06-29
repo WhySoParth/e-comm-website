@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecommerce Platform</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+    <div class="logo">
+        <h1>Ecommerce Platform</h1>
+    </div>
+    <div class="header-controls">
+        <div class="search-box">
+            <input type="text" id="search" placeholder="Search Products....">
+        </div>
+        <div class="sort-box">
+            <select id="sort" aria-label="Sort products">
+                <option value="">Sort By</option>
+                <option value="low">Price: Low to High</option>
+                <option value="high">Price: High to Low</option>
+            </select>
+        </div>
+        <a href="cart.html" class="cart">
+            🛒 Cart (<span id="cart-count">0</span>)
+        </a>
+    </div>
+</header>
+<section class="hero">
+    <h2>Welcome to our Store</h2>
+    <p>Browse over 194 amazing products.</p>
+</section>
+<main>
+    <div id="products-container">
+
+    </div>
+</main>
+<footer>
+    <p>© 2026 Ecommerce Platform. All rights reserved.</p>
+</footer>
+</body>
+
+<script src="js/script.js"></script>
+</html>
