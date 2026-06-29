@@ -19,7 +19,7 @@ A responsive e-commerce web application built using **HTML**, **CSS**, and **Jav
   * Category
 * Search products by title.
 * Filter products by category.
-* Sort products by price and rating.
+* Sort products by price.
 
 ### 📦 Product Details
 
