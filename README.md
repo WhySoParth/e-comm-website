@@ -79,7 +79,6 @@ ecommerce-app/
 │   ├── cart.js
 │   └── storage.js
 │
-├── images/
 │
 └── README.md
 ```
@@ -113,7 +112,7 @@ https://dummyjson.com/products/1
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ecommerce-app.git
+git clone https://github.com/your-username/e-comm-website.git
 ```
 
 2. Navigate to the project directory
